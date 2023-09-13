@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       create: (_) => Score(),
       child: Consumer<Score>(
         builder: (ctx, score, _) => MaterialApp(
-          title: 'Picleball Score',
+          title: 'Picleball Board',
           home: Scaffold(
             drawer: MyDrawer(),
             backgroundColor: Colors.black,

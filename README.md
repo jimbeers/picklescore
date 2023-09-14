@@ -46,15 +46,12 @@ To use the Pickelball Score Keeper App, follow these steps:
    - Choose between singles or doubles mode.
 
 3. **Start Scoring:**
-   - Tap the '+' button to add points for the serving team and the '-' button to subtract points if needed.
+   - Just tap the side of the screen for the team that won the rally, the score and server will update.
 
-4. **View Score History:**
-   - Swipe or tap to view the score history to keep track of the game's progress.
-
-5. **Undo Scoring:**
+4. **Undo Scoring:**
    - If a scoring mistake occurs, use the undo button to correct it.
 
-6. **End the Game:**
+5. **End the Game:**
    - When the game is over, the app will display the final score and declare the winner.
 
 ## Screenshots
